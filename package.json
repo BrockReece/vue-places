@@ -22,7 +22,7 @@
     "input"
   ],
   "peerDependencies": {
-    "vue": ">=2"
+    "vue": ">=2.2.6"
   },
   "dependencies": {
     "places.js": "^1.4.9"
